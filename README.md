@@ -4,7 +4,7 @@ This project aims to enhance the working environment on Windows.
 
 ## How to?
 
-1. Download the latest setup program from the [Releases page](https://github.com/valinet/ExplorerPatcher/releases/latest).
+1. Download the latest setup program from the [Releases page](https://github.com/XLOk2568/ExplorerPatcherMenu/releases/latest).
    * Choose `ep_setup.exe` if your device uses an Intel or AMD processor, or `ep_setup_arm64.exe` if your device uses a Snapdragon processor.
 2. Run the installer. It will automatically prompt for elevation, after which it will close `explorer.exe` and install the necessary files. When done, you will see the desktop again and the Windows 10 taskbar.
 3. Right-click the taskbar and choose "Properties".
@@ -26,12 +26,12 @@ That's it!
 
 ## Updating
 
-* The program features built-in updates: go to "Properties" - "Updates" to configure, check for and install the latest updates. Learn more [here](https://github.com/valinet/ExplorerPatcher/wiki/Configure-updates).
-* Download the latest version's [setup file for x64](https://github.com/valinet/ExplorerPatcher/releases/latest/download/ep_setup.exe) or [setup file for ARM64](https://github.com/valinet/ExplorerPatcher/releases/latest/download/ep_setup_arm64.exe) and simply run it.
+* The program features built-in updates: go to "Properties" - "Updates" to configure, check for and install the latest updates.
+* Download the latest version's [setup file for x64](https://github.com/XLOk2568/ExplorerPatcherMenu/releases/latest/download/ep_setup.exe) or [setup file for ARM64](https://github.com/XLOk2568/ExplorerPatcherMenu/releases/latest/download/ep_setup_arm64.exe) and simply run it.
 
 ## Donate
 
-If you find this project essential to your daily life, please consider donating to support the development through the [Sponsor](https://github.com/valinet/ExplorerPatcher?sponsor) button at the top of this page, so that we can continue to keep supporting newer Windows builds.
+If you find this project essential to your daily life, please consider supporting the project on its [GitHub repository](https://github.com/XLOk2568/ExplorerPatcherMenu).
 
 ## Discord Server
 
@@ -39,4 +39,4 @@ Join our Discord server if you need support, want to chat regarding this project
 
 [![Join on Discord](https://discordapp.com/api/guilds/1155912047897350204/widget.png?style=shield)](https://discord.gg/gsPcfqHTD2)
 
-[Read more](https://github.com/valinet/ExplorerPatcher/wiki)
+[Read more](https://github.com/XLOk2568/ExplorerPatcherMenu)
